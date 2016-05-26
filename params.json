@@ -1,0 +1,6 @@
+{
+  "name": "Sense-files",
+  "tagline": "Smart Energy Monitoring System Associated Files and Source Code",
+  "body": "#S E N S E \r\n##(Smart Energy Monitoring System) \r\nS E N S E energy monitoring system to measure, graph, log and send-to-cloud (Thingspeak IoT App) energy usage behaviors of home. This energy monitoring system requires to be connected with home main voltage supply in a series fashion so that it can measure the required data. It consists of current and voltage sensors that are being interfaced with Raspberry Pi. Raspberry Pi here helps in logging, organizing and sending data to IoT application so that one can have a detailed look at home’s energy usage from any internet-connected device.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
